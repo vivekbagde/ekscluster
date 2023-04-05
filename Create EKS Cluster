@@ -7,3 +7,7 @@ https://dl.k8s.io/release/v1.26.0/bin/windows/amd64/kubectl.exe        Download 
 
 Download and install eksctl:
 https://github.com/weaveworks/eksctl/releases/download/v0.136.0/eksctl_Windows_amd64.zip    download from here and install
+
+
+Now Create EKS Cluster:
+1. 
